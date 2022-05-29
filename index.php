@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="static/Bootstrap/css/bootstrap.css">
     <!--font awsome-->
     <link rel="stylesheet" href="static/fontawesome/css/all.css">
-    <title>mon médecin</title>
+    <title>Mon Médecin</title>
 
     <style type="text/css">
        
@@ -67,7 +67,7 @@
     <div class="container-fluid header p-0"  id="btn_float">
         <div class="container-fluid header-color">
             <div class="container">
-                <div  class="header-t">
+                <div  class="header-t d-none d-md-block d-lg-block">
                     <h3>Le meilleur endroit pour les soins de qualités</h3>
         
                     <p class="para-1">La qualité et l'excellence de notre clinique fait la différence.</p>
